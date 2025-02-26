@@ -24,7 +24,7 @@ source .venv/bin/activate
  
 clone the streamlit UI
 ```
-git clone https://github.com/acwwat/amazon-bedrock-agent-test-ui.git
+git clone https://github.com/Lyc1122/amazon-bedrock-agent-test-ui.git
 cd amazon-bedrock-agent-test-ui
 pip install -r requirements.txt
 ```
